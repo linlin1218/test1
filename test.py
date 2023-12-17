@@ -6,3 +6,5 @@ print(a)
 
 b = 3
 print(b)
+
+c = 1
